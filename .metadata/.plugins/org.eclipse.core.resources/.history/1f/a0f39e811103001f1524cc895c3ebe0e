@@ -1,0 +1,15 @@
+
+public class Single_line_Ex {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Janbask is training institute");
+		System.out.print("Selenium is an automation tool");
+		System.out.println("Java is a programming language");
+		System.out.print("Automation is interesting");
+		
+		
+
+	}
+
+}

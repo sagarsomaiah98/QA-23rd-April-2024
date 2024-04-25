@@ -1,0 +1,13 @@
+
+public class Concat {
+
+	public static void main(String[] args) {
+		int age=20;
+		double salary=234.45;
+		String name="Kevin";
+		
+		System.out.println(salary);
+
+	}
+
+}
