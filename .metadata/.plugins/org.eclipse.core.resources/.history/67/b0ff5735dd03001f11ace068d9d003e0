@@ -1,0 +1,21 @@
+
+public class VariableDeclaration {
+
+	public static void main(String[] args) {
+	// declare 3 variable 
+	//integer with value 100
+	//decimal with value 45.63
+	// store name bob
+		
+   //DataType VariableName= value;
+		
+	int a=100;
+	double b=45.63;
+	String name="bob";
+	
+	System.out.println(a);
+	System.out.println(b);
+
+	}
+
+}
